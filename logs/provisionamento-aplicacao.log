@@ -1,0 +1,22 @@
+[2026-11-14 22:19:11] [INFO] Iniciando provisionamento da aplicação CitizenTech.
+[2026-11-14 22:19:11] [INFO] Node.js: v24.22.3
+[2026-11-14 22:19:12] [INFO] npm: 11.19.1
+[2026-11-14 22:19:12] [INFO] Instalando dependências da aplicação.
+[2026-11-14 22:19:19] [INFO] Validando código com ESLint.
+[2026-11-14 22:19:20] [INFO] Gerando build de produção.
+[2026-11-14 22:19:21] [INFO] Publicando arquivos no diretório do Nginx.
+[2026-11-14 22:19:22] [INFO] Validando configuração do Nginx.
+[2026-11-14 22:19:22] [INFO] Reiniciando Nginx.
+[2026-11-14 22:19:23] [OK] Aplicação CitizenTech provisionada com sucesso.
+[2026-11-14 22:19:23] [OK] Endereço: http://192.168.56.10
+[2026-11-14 22:27:28] [INFO] Iniciando provisionamento da aplicação CitizenTech.
+[2026-11-14 22:27:28] [INFO] Node.js: v24.22.3
+[2026-11-14 22:27:28] [INFO] npm: 11.19.1
+[2026-11-14 22:27:28] [INFO] Instalando dependências da aplicação.
+[2026-11-14 22:27:33] [INFO] Validando código com ESLint.
+[2026-11-14 22:27:35] [INFO] Gerando build de produção.
+[2026-11-14 22:27:36] [INFO] Publicando arquivos no diretório do Nginx.
+[2026-11-14 22:27:36] [INFO] Validando configuração do Nginx.
+[2026-11-14 22:27:36] [INFO] Reiniciando Nginx.
+[2026-11-14 22:27:37] [OK] Aplicação CitizenTech provisionada com sucesso.
+[2026-11-14 22:27:37] [OK] Endereço: http://192.168.56.10

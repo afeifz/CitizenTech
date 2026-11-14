@@ -1,0 +1,52 @@
+==========================================
+ INICIANDO PROVISIONAMENTO CITIZENTECH
+ Data: 14/11/2026 20:49:13
+==========================================
+[INFO] Backup da configuração de rede realizado.
+[OK] Hostname configurado: citizentech
+[INFO] Nova configuração Netplan criada.
+[OK] Configuração de rede aplicada.
+[OK] IP estático configurado corretamente.
+[OK] Conectividade com a internet funcionando.
+[OK] Resolução DNS funcionando.
+==========================================
+ PROVISIONAMENTO FINALIZADO
+ Hostname: citizentech
+ IP Host-only: 192.168.56.10
+ Log: /home/mohamedafif/citizentech/logs/provisionamento.log
+==========================================
+==========================================
+ INICIANDO PROVISIONAMENTO CITIZENTECH
+ Data: 14/11/2026 21:07:24
+==========================================
+[INFO] Backup da configuração de rede realizado.
+[OK] Hostname configurado: citizentech
+[INFO] Nova configuração Netplan criada.
+[OK] Configuração de rede aplicada.
+[OK] IP estático configurado corretamente.
+[OK] Conectividade com a internet funcionando.
+[OK] Resolução DNS funcionando.
+==========================================
+ PROVISIONAMENTO FINALIZADO
+ Hostname: citizentech
+ IP Host-only: 192.168.56.10
+ Log: /home/mohamedafif/citizentech/logs/provisionamento.log
+==========================================
+==========================================
+ INICIANDO PROVISIONAMENTO CITIZENTECH
+ Data: 14/11/2026 22:27:19
+==========================================
+[INFO] Backup original preservado.
+[INFO] Backup da configuração de rede realizado.
+[OK] Hostname configurado: citizentech
+[INFO] Nova configuração Netplan criada.
+[OK] Configuração de rede aplicada.
+[OK] IP estático configurado corretamente.
+[OK] Conectividade com a internet funcionando.
+[OK] Resolução DNS funcionando.
+==========================================
+ PROVISIONAMENTO FINALIZADO
+ Hostname: citizentech
+ IP Host-only: 192.168.56.10
+ Log: /home/mohamedafif/citizentech/logs/provisionamento.log
+==========================================

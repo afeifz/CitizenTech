@@ -1,0 +1,12 @@
+[2026-11-14 22:27:19] [INFO] INICIANDO PROVISIONAMENTO COMPLETO CITIZENTECH
+[2026-11-14 22:27:19] [INFO] Executando 01-provisionar-infra.sh
+[2026-11-14 22:27:23] [OK] 01-provisionar-infra.sh concluído.
+[2026-11-14 22:27:23] [INFO] Executando 02-configurar-firewall.sh
+[2026-11-14 22:27:28] [OK] 02-configurar-firewall.sh concluído.
+[2026-11-14 22:27:28] [INFO] Executando 05-provisionar-aplicacao.sh
+[2026-11-14 22:27:37] [OK] 05-provisionar-aplicacao.sh concluído.
+[2026-11-14 22:27:37] [INFO] Verificando serviço de monitoramento.
+[2026-11-14 22:27:37] [OK] Serviço de monitoramento ativo.
+[2026-11-14 22:27:37] [INFO] Executando 04-auditar-sistema.sh
+[2026-11-14 22:27:37] [OK] 04-auditar-sistema.sh concluído.
+[2026-11-14 22:27:37] [OK] PROVISIONAMENTO COMPLETO FINALIZADO COM SUCESSO.

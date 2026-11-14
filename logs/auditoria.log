@@ -1,0 +1,20 @@
+[2026-11-14 21:53:30] ========== INÍCIO DA AUDITORIA ==========
+[2026-11-14 21:53:30] [INFO] Hostname: citizentech
+[2026-11-14 21:53:30] [INFO] Data: Sat Nov 14 09:53:30 PM UTC 2026
+[2026-11-14 21:53:30] [OK] Serviço nginx está ativo.
+[2026-11-14 21:53:30] [OK] Serviço citizentech-monitor.service está ativo.
+[2026-11-14 21:53:30] [OK] Serviço ufw está ativo.
+[2026-11-14 21:53:30] [OK] Arquivo de monitoramento encontrado.
+[2026-11-14 21:53:30] [OK] Configuração Netplan encontrada.
+[2026-11-14 21:53:30] [OK] Aplicação web respondendo via HTTP.
+[2026-11-14 21:53:30] ========== FIM DA AUDITORIA ==========
+[2026-11-14 22:27:37] ========== INÍCIO DA AUDITORIA ==========
+[2026-11-14 22:27:37] [INFO] Hostname: citizentech
+[2026-11-14 22:27:37] [INFO] Data: Sat Nov 14 10:27:37 PM UTC 2026
+[2026-11-14 22:27:37] [OK] Serviço nginx está ativo.
+[2026-11-14 22:27:37] [OK] Serviço citizentech-monitor.service está ativo.
+[2026-11-14 22:27:37] [OK] Serviço ufw está ativo.
+[2026-11-14 22:27:37] [OK] Arquivo de monitoramento encontrado.
+[2026-11-14 22:27:37] [OK] Configuração Netplan encontrada.
+[2026-11-14 22:27:37] [OK] Aplicação web respondendo via HTTP.
+[2026-11-14 22:27:37] ========== FIM DA AUDITORIA ==========

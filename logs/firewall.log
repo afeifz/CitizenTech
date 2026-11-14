@@ -1,0 +1,54 @@
+======================================
+ INICIANDO CONFIGURACAO DO FIREWALL
+ Data: Sat Nov 14 09:19:06 PM UTC 2026
+======================================
+Default incoming policy changed to 'deny'
+(be sure to update your rules accordingly)
+Default outgoing policy changed to 'allow'
+(be sure to update your rules accordingly)
+Rules updated
+Rules updated
+[OK] Regras de firewall configuradas.
+Firewall is active and enabled on system startup
+[OK] Firewall ativado.
+Status: active
+Logging: on (low)
+Default: deny (incoming), allow (outgoing), disabled (routed)
+New profiles: skip
+
+To                         Action      From
+--                         ------      ----
+22/tcp                     ALLOW IN    192.168.56.0/24           
+80/tcp                     ALLOW IN    192.168.56.0/24           
+
+======================================
+ FIREWALL CONFIGURADO COM SUCESSO
+ Log: /home/mohamedafif/citizentech/logs/firewall.log
+======================================
+======================================
+ INICIANDO CONFIGURACAO DO FIREWALL
+ Data: Sat Nov 14 10:27:23 PM UTC 2026
+======================================
+Default incoming policy changed to 'deny'
+(be sure to update your rules accordingly)
+Default outgoing policy changed to 'allow'
+(be sure to update your rules accordingly)
+Skipping adding existing rule
+Skipping adding existing rule
+[OK] Regras de firewall configuradas.
+Firewall is active and enabled on system startup
+[OK] Firewall ativado.
+Status: active
+Logging: on (low)
+Default: deny (incoming), allow (outgoing), disabled (routed)
+New profiles: skip
+
+To                         Action      From
+--                         ------      ----
+22/tcp                     ALLOW IN    192.168.56.0/24           
+80/tcp                     ALLOW IN    192.168.56.0/24           
+
+======================================
+ FIREWALL CONFIGURADO COM SUCESSO
+ Log: /home/mohamedafif/citizentech/logs/firewall.log
+======================================
