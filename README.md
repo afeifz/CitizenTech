@@ -26,7 +26,7 @@ O projeto foi desenvolvido utilizando Ubuntu Server em uma máquina virtual Virt
 
 **Lucca Cardinale RM556668**
 
-
+**Link do vídeo:** https://youtu.be/Wt1p__2fRF8
 
 
 
